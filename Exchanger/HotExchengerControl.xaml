@@ -1,0 +1,41 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	xmlns:local="clr-namespace:Exchanger"
+	x:Class="Exchanger.HotExchengerControl"
+	x:Name="UserControl"
+	d:DesignWidth="184.372" d:DesignHeight="294.354">
+
+	<Grid x:Name="LayoutRoot">
+		<Viewbox>
+			<Canvas Width="184.372" Height="294.354">
+				<local:HotExchanger x:Name="MainExchanger" RenderTransformOrigin="0.5,0.5" d:LayoutOverrides="HorizontalAlignment" Width="132" Height="242.709" Canvas.Left="26.394" Canvas.Top="25.801"/>
+				<local:Valve x:Name="ValveHotOut" RenderTransformOrigin="0.5,0.5" Height="67.427" Width="26.102" Canvas.Left="158.27" Canvas.Top="57.468" d:LayoutOverrides="HorizontalAlignment" MouseLeftButtonDown="ValveHotOut_MouseLeftButtonDown"/>
+				<local:Valve x:Name="ValveHotIn" RenderTransformOrigin="0.5,0.5" Width="26.394" Height="75.958" Canvas.Top="121.844" d:LayoutOverrides="HorizontalAlignment" MouseLeftButtonDown="ValveHotIn_MouseLeftButtonDown"/>
+				<local:Valve x:Name="ValveColdIn" RenderTransformOrigin="0.001,0.613" Height="67.427" Width="26.1" Canvas.Left="107.65" Canvas.Top="226.927" d:LayoutOverrides="HorizontalAlignment" MouseLeftButtonDown="ValveColdIn_MouseLeftButtonDown">
+					<local:Valve.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:Valve.RenderTransform>
+				</local:Valve>
+				<local:Valve x:Name="ValveColdOut" Height="67.427" RenderTransformOrigin="1.001,0.388" Width="26.1" Canvas.Left="96.759" d:LayoutOverrides="HorizontalAlignment" MouseLeftButtonDown="ValveColdOut_MouseLeftButtonDown">
+					<local:Valve.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:Valve.RenderTransform>
+				</local:Valve>
+			</Canvas>
+		</Viewbox>
+	</Grid>
+</UserControl>

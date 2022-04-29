@@ -1,0 +1,19 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	xmlns:Pipe="clr-namespace:Pipe"
+	x:Class="Exchanger.WaterWaveAsWaterControl"
+	x:Name="UserControl"
+	d:DesignWidth="128" d:DesignHeight="24">
+
+	<Grid x:Name="LayoutRoot">
+		<Viewbox Stretch="Fill">
+			<Canvas Width="128" Height="24">
+				<Pipe:WaterWave x:Name="Wave" Width="128" Height="24"/>
+			</Canvas>
+		</Viewbox>
+	</Grid>
+</UserControl>

@@ -1,0 +1,108 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	xmlns:Pipe="clr-namespace:Pipe"
+	x:Class="Exchanger.Corner"
+	x:Name="UserControl"
+	d:DesignWidth="264.55" d:DesignHeight="264.55">
+	<UserControl.Resources>
+		<LinearGradientBrush x:Key="BrushCorner" EndPoint="0.61,0.837" StartPoint="0.61,0.086" MappingMode="RelativeToBoundingBox">
+			<LinearGradientBrush.RelativeTransform>
+				<TransformGroup>
+					<ScaleTransform CenterX="0.5" CenterY="0.5"/>
+					<SkewTransform CenterX="0.5" CenterY="0.5"/>
+					<RotateTransform CenterX="0.5" CenterY="0.5"/>
+					<TranslateTransform X="-0.11" Y="0.038"/>
+				</TransformGroup>
+			</LinearGradientBrush.RelativeTransform>
+			<GradientStop Color="#FF7B8998"/>
+			<GradientStop Color="#FF6C7986" Offset="1"/>
+			<GradientStop Color="#FF474C51" Offset="0.659"/>
+			<GradientStop Color="#FF6D747A" Offset="0.353"/>
+			<GradientStop Color="#FF545D65" Offset="0.871"/>
+			<GradientStop Color="#FF464A51" Offset="0.715"/>
+		</LinearGradientBrush>
+	</UserControl.Resources>
+
+	<Grid x:Name="LayoutRoot">
+		<VisualStateManager.VisualStateGroups>
+			<VisualStateGroup x:Name="VisualStateGroup">
+				<VisualState x:Name="VisualStateBrushBase"/>
+				<VisualState x:Name="VisualStateBrushAlternative">
+					<Storyboard>
+						<DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Duration="00:00:00.0010000" Storyboard.TargetName="path" Storyboard.TargetProperty="(Shape.Fill).(RadialGradientBrush.RadiusX)">
+							<SplineDoubleKeyFrame KeyTime="00:00:00" Value="-1.253"/>
+						</DoubleAnimationUsingKeyFrames>
+						<DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Duration="00:00:00.0010000" Storyboard.TargetName="path" Storyboard.TargetProperty="(Shape.Fill).(RadialGradientBrush.RadiusY)">
+							<SplineDoubleKeyFrame KeyTime="00:00:00" Value="-1.239"/>
+						</DoubleAnimationUsingKeyFrames>
+						<PointAnimationUsingKeyFrames BeginTime="00:00:00" Duration="00:00:00.0010000" Storyboard.TargetName="path" Storyboard.TargetProperty="(Shape.Fill).(RadialGradientBrush.GradientOrigin)">
+							<SplinePointKeyFrame KeyTime="00:00:00" Value="0.088,0.842"/>
+						</PointAnimationUsingKeyFrames>
+					</Storyboard>
+				</VisualState>
+			</VisualStateGroup>
+		</VisualStateManager.VisualStateGroups>
+		<Viewbox>
+			<Canvas Width="264.55" Height="264.55">
+				<Path x:Name="path" Width="208.1" Height="208.135" Canvas.Left="24.4477" Canvas.Top="32.0006" Stretch="Fill" StrokeLineJoin="Round" Stroke="#FF180303" Data="F1 M 24.5003,160.051L 24.4977,32.0506L 62.4977,32.0506C 156.386,32.0506 232.498,108.162 232.498,202.051L 232.498,240.086L 104.5,240.051C 104.5,195.868 68.6833,160.051 24.5003,160.051 Z ">
+					<Path.Fill>
+						<RadialGradientBrush Center="-0.085,1.087" GradientOrigin="-0.085,1.087" RadiusY="1.035" RadiusX="1.047">
+							<GradientStop Color="#FF7B8998"/>
+							<GradientStop Color="#FF6C7986" Offset="1"/>
+							<GradientStop Color="#FF474C51" Offset="0.659"/>
+							<GradientStop Color="#FF6D747A" Offset="0.353"/>
+							<GradientStop Color="#FF545D65" Offset="0.871"/>
+							<GradientStop Color="#FF464A51" Offset="0.715"/>
+						</RadialGradientBrush>
+					</Path.Fill>
+				</Path>
+				<Path Width="16.1" Height="192.1" Canvas.Left="8.45022" Canvas.Top="2.03438e-005" Stretch="Fill" StrokeLineJoin="Round" Stroke="#FF180303" Fill="{DynamicResource BrushCorner}" Data="F1 M 16.5002,0.0500183L 16.5002,0.0500183C 12.0819,0.0500183 8.50021,3.63171 8.50021,8.04999L 8.50021,184.05C 8.50021,188.468 12.0819,192.05 16.5002,192.05L 16.5002,192.05C 20.9185,192.05 24.5002,188.468 24.5002,184.05L 24.5002,8.04999C 24.5002,3.63171 20.9185,0.0500183 16.5002,0.0500183 Z "/>
+				<Path Width="9" Height="145" Canvas.Left="0" Canvas.Top="23.5502" Stretch="Fill" StrokeLineJoin="Round" Stroke="#FF180303" Fill="{DynamicResource BrushCorner}" Data="F1 M 8.5,24.0502L 8.5,168.05L 0.5,159.58L 0.500092,32.5208L 8.5,24.0502 Z "/>
+				<Path Width="192.1" Height="16.1" Canvas.Left="72.4498" Canvas.Top="240" Stretch="Fill" StrokeLineJoin="Round" Stroke="#FF180303" Data="F1 M 72.4998,248.05L 72.4998,248.05C 72.4998,252.468 76.0816,256.05 80.4998,256.05L 256.5,256.05C 260.918,256.05 264.5,252.468 264.5,248.05L 264.5,248.05C 264.5,243.632 260.918,240.05 256.5,240.05L 80.4998,240.05C 76.0816,240.05 72.4998,243.632 72.4998,248.05 Z ">
+					<Path.Fill>
+						<LinearGradientBrush MappingMode="RelativeToBoundingBox" EndPoint="0.17,0.713" StartPoint="1.063,0.514">
+							<LinearGradientBrush.RelativeTransform>
+								<TransformGroup>
+									<ScaleTransform CenterX="0.5" CenterY="0.5"/>
+									<SkewTransform CenterX="0.5" CenterY="0.5"/>
+									<RotateTransform CenterX="0.5" CenterY="0.5"/>
+									<TranslateTransform X="-0.11" Y="0.038"/>
+								</TransformGroup>
+							</LinearGradientBrush.RelativeTransform>
+							<GradientStop Color="#FF7B8998"/>
+							<GradientStop Color="#FF6C7986" Offset="1"/>
+							<GradientStop Color="#FF474C51" Offset="0.659"/>
+							<GradientStop Color="#FF6D747A" Offset="0.353"/>
+							<GradientStop Color="#FF545D65" Offset="0.871"/>
+							<GradientStop Color="#FF464A51" Offset="0.715"/>
+						</LinearGradientBrush>
+					</Path.Fill>
+				</Path>
+				<Path Width="145" Height="9" Canvas.Left="95.9999" Canvas.Top="255.55" Stretch="Fill" StrokeLineJoin="Round" Stroke="#FF180303" Data="F1 M 96.4999,256.05L 240.5,256.05L 232.029,264.05L 104.97,264.05L 96.4999,256.05 Z ">
+					<Path.Fill>
+						<LinearGradientBrush MappingMode="RelativeToBoundingBox" EndPoint="0.18,0.616" StartPoint="1.039,0.511">
+							<LinearGradientBrush.RelativeTransform>
+								<TransformGroup>
+									<ScaleTransform CenterX="0.5" CenterY="0.5"/>
+									<SkewTransform CenterX="0.5" CenterY="0.5"/>
+									<RotateTransform CenterX="0.5" CenterY="0.5"/>
+									<TranslateTransform X="-0.11" Y="0.038"/>
+								</TransformGroup>
+							</LinearGradientBrush.RelativeTransform>
+							<GradientStop Color="#FF7B8998"/>
+							<GradientStop Color="#FF6C7986" Offset="1"/>
+							<GradientStop Color="#FF474C51" Offset="0.659"/>
+							<GradientStop Color="#FF6D747A" Offset="0.353"/>
+							<GradientStop Color="#FF545D65" Offset="0.871"/>
+							<GradientStop Color="#FF464A51" Offset="0.715"/>
+						</LinearGradientBrush>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+		</Viewbox>
+	</Grid>
+</UserControl>

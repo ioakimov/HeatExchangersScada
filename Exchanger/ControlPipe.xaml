@@ -1,0 +1,99 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	xmlns:Pipe="clr-namespace:Pipe"
+	x:Class="Exchanger.ControlPipe"
+	x:Name="UserControl"
+	d:DesignWidth="117.096" d:DesignHeight="12.37">
+
+	<UserControl.Resources>
+		<LinearGradientBrush x:Key="BrushPipe" MappingMode="RelativeToBoundingBox" EndPoint="0.61,0.837" StartPoint="0.61,0.086">
+			<LinearGradientBrush.RelativeTransform>
+				<TransformGroup>
+					<ScaleTransform CenterX="0.5" CenterY="0.5"/>
+					<SkewTransform CenterX="0.5" CenterY="0.5"/>
+					<RotateTransform CenterX="0.5" CenterY="0.5"/>
+					<TranslateTransform X="-0.11" Y="0.038"/>
+				</TransformGroup>
+			</LinearGradientBrush.RelativeTransform>
+			<GradientStop Color="#FF7B8998"/>
+			<GradientStop Color="#FF6C7986" Offset="1"/>
+			<GradientStop Color="#FF474C51" Offset="0.659"/>
+			<GradientStop Color="#FF6D747A" Offset="0.353"/>
+			<GradientStop Color="#FF545D65" Offset="0.871"/>
+			<GradientStop Color="#FF464A51" Offset="0.715"/>
+		</LinearGradientBrush>
+	</UserControl.Resources>
+
+	<Grid x:Name="LayoutRoot">
+		<VisualStateManager.VisualStateGroups>
+			<VisualStateGroup x:Name="VisualMainStateGroup">
+				<VisualState x:Name="VisualMainStateOpenCasing">
+					<Storyboard>
+						<DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="rectangle" Storyboard.TargetProperty="(UIElement.Opacity)">
+							<SplineDoubleKeyFrame KeyTime="00:00:00" Value="1"/>
+							<SplineDoubleKeyFrame KeyTime="00:00:03" Value="0"/>
+						</DoubleAnimationUsingKeyFrames>
+					</Storyboard>
+				</VisualState>
+				<VisualState x:Name="VisualMainStateCloseCasing">
+					<Storyboard>
+						<DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="rectangle" Storyboard.TargetProperty="(UIElement.Opacity)">
+							<SplineDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+							<SplineDoubleKeyFrame KeyTime="00:00:03" Value="1"/>
+						</DoubleAnimationUsingKeyFrames>
+					</Storyboard>
+				</VisualState>
+				<VisualState x:Name="VisualMainStateFastOpenCasing">
+					<Storyboard>
+						<DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="rectangle" Storyboard.TargetProperty="(UIElement.Opacity)" Duration="00:00:00.0010000">
+							<SplineDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+						</DoubleAnimationUsingKeyFrames>
+					</Storyboard>
+				</VisualState>
+				<VisualState x:Name="VisualMainStateFastCloseCasing">
+					<Storyboard>
+						<DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="rectangle" Storyboard.TargetProperty="(UIElement.Opacity)" Duration="00:00:00.0010000">
+							<SplineDoubleKeyFrame KeyTime="00:00:00" Value="1"/>
+						</DoubleAnimationUsingKeyFrames>
+					</Storyboard>
+				</VisualState>
+			</VisualStateGroup>
+		</VisualStateManager.VisualStateGroups>
+		<Viewbox Stretch="Fill" OpacityMask="Black">
+			<Canvas Width="117.096" Height="12.37">
+				<Path Stretch="Fill" StrokeThickness="0.1" StrokeLineJoin="Round" Stroke="#FF180303" Fill="{DynamicResource BrushPipe}" Data="F1 M 7045.08,4262L 7045.08,4262C 7044.85,4262 7044.67,4262.19 7044.67,4262.42L 7044.67,4273.58C 7044.67,4273.81 7044.85,4274 7045.08,4274L 7045.08,4274C 7045.31,4274 7045.5,4273.81 7045.5,4273.58L 7045.5,4262.42C 7045.5,4262.19 7045.31,4262 7045.08,4262 Z " Width="0.932" Height="12.37" Canvas.Left="0.42" Canvas.Top="0"/>
+				<Path Stretch="Fill" StrokeThickness="0.1" StrokeLineJoin="Round" Stroke="#FF180303" Fill="{DynamicResource BrushPipe}" Data="F1 M 7044.67,4263.18L 7044.67,4272.18L 7044.25,4271.65L 7044.25,4263.71L 7044.67,4263.18 Z " Width="0.516" Height="9.1" Canvas.Top="1.635"/>
+				<Rectangle Stretch="Fill" StrokeThickness="0.1" StrokeLineJoin="Round" Stroke="#FF180303" Width="114.6" Height="8.1" Canvas.Left="1.25" Canvas.Top="2.135">
+					<Rectangle.Fill>
+						<LinearGradientBrush EndPoint="0.655,0.99" StartPoint="0.655,-0.152" MappingMode="RelativeToBoundingBox">
+							<LinearGradientBrush.RelativeTransform>
+								<TransformGroup>
+									<ScaleTransform CenterX="0.5" CenterY="0.5"/>
+									<SkewTransform CenterX="0.5" CenterY="0.5"/>
+									<RotateTransform CenterX="0.5" CenterY="0.5"/>
+									<TranslateTransform X="-0.11" Y="0.038"/>
+								</TransformGroup>
+							</LinearGradientBrush.RelativeTransform>
+							<GradientStop Color="#FF464A51"/>
+							<GradientStop Color="#FF6D747A" Offset="1"/>
+							<GradientStop Color="#FF5E666E" Offset="0.532"/>
+							<GradientStop Color="#FF464A51" Offset="0.353"/>
+							<GradientStop Color="#FF545D65" Offset="0.941"/>
+							<GradientStop Color="#FF6D747A" Offset="0.757"/>
+						</LinearGradientBrush>
+					</Rectangle.Fill>
+				</Rectangle>
+				<Pipe:WaterWave x:Name="PipeWave" Width="51.783" Height="7.551" Canvas.Left="64" Canvas.Top="2.413"/>
+				<Path Stretch="Fill" StrokeThickness="0.1" StrokeLineJoin="Round" Stroke="#FF180303" Fill="{DynamicResource BrushPipe}" Data="F1 M 7108.75,4272L 7042.24,4272L 7042.24,4264L 7108.71,4264L 7108.92,4264L 7108.79,4264.28L 7108.33,4264.66L 7108.04,4265.03L 7107.99,4265.44L 7108.06,4266.06L 7107.91,4266.41L 7107.65,4267.03C 7107.65,4267.03 7107.62,4267.16 7107.65,4267.31C 7107.68,4267.47 7107.7,4267.63 7107.73,4267.75C 7107.75,4267.88 7107.88,4268.16 7107.88,4268.16L 7107.91,4268.69L 7107.91,4269.28L 7108.17,4269.69L 7108.51,4270.34L 7108.51,4271L 7108.72,4271.78L 7108.87,4271.97L 7108.75,4272 Z " Width="66.781" Height="8.101" Canvas.Left="1.261" Canvas.Top="2.135"/>
+				<Path Stretch="Fill" StrokeThickness="0.1" StrokeLineJoin="Round" Stroke="#FF180303" Fill="{DynamicResource BrushPipe}" Data="F1 M 7056.02,4238.68L 7049.04,4238.68L 7048.82,4238.68L 7048.96,4238.4L 7049.42,4238.02L 7049.71,4237.65L 7049.76,4237.24L 7049.68,4236.62L 7049.84,4236.27L 7050.1,4235.65C 7050.1,4235.65 7050.13,4235.52 7050.1,4235.37C 7050.07,4235.21 7050.05,4235.06 7050.02,4234.93C 7050,4234.81 7049.87,4234.52 7049.87,4234.52L 7049.84,4233.99L 7049.84,4233.4L 7049.58,4232.99L 7049.24,4232.34L 7049.24,4231.68L 7049.03,4230.9L 7048.88,4230.71L 7049,4230.68L 7055.99,4230.68L 7056.02,4238.68 Z " Width="7.498" Height="8.101" Canvas.Left="108.5" Canvas.Top="2.135" d:LayoutOverrides="HorizontalAlignment"/>
+				<Rectangle x:Name="rectangle" Stretch="Fill" StrokeThickness="0.1" StrokeLineJoin="Round" Stroke="#FF180303" Width="114.6" Height="8.1" Canvas.Left="1.25" Canvas.Top="2.135" Fill="{DynamicResource BrushPipe}" Opacity="0"/>
+				<Path Stretch="Fill" StrokeThickness="0.1" StrokeLineJoin="Round" Stroke="#FF180303" Fill="{DynamicResource BrushPipe}" Data="F1 M 7160.42,4273.73L 7160.42,4273.73C 7160.65,4273.73 7160.83,4273.54 7160.83,4273.31L 7160.83,4262.15C 7160.83,4261.92 7160.65,4261.73 7160.42,4261.73L 7160.42,4261.73C 7160.19,4261.73 7160,4261.92 7160,4262.15L 7160,4273.31C 7160,4273.54 7160.19,4273.73 7160.42,4273.73 Z " Width="0.932" Height="12.37" Canvas.Left="115.75" Canvas.Top="0"/>
+				<Path Stretch="Fill" StrokeThickness="0.1" StrokeLineJoin="Round" Stroke="#FF180303" Fill="{DynamicResource BrushPipe}" Data="F1 M 7160.83,4272.55L 7160.83,4263.55L 7161.25,4264.08L 7161.25,4272.02L 7160.83,4272.55 Z " Width="0.516" Height="9.1" Canvas.Left="116.58" Canvas.Top="1.635"/>
+			</Canvas>
+		</Viewbox>
+	</Grid>
+</UserControl>

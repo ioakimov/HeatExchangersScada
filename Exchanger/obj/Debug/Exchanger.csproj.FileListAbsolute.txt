@@ -1,0 +1,470 @@
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\Exchanger.exe
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\Exchanger.pdb
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\obj\Debug\MainWindow.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\obj\Debug\MainWindow.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\obj\Debug\App.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\obj\Debug\Exchanger_MarkupCompile.cache
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\obj\Debug\Exchanger.g.resources
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\obj\Debug\Exchanger.exe
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\obj\Debug\Exchanger.pdb
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\obj\Debug\Corner.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\obj\Debug\Valve.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\obj\Debug\Corner.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\obj\Debug\Valve.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\obj\Debug\Exchanger_MarkupCompile.lref
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\obj\Debug\WaterWave.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\obj\Debug\WaterWave.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\obj\Debug\HotExchanger.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\obj\Debug\HotExchanger.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\WPFToolkit.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\WPFToolkit.pdb
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\obj\Debug\HotExchengerControl.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\obj\Debug\HotExchengerControl.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\System.Windows.Interactivity.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\System.Windows.Interactivity.xml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\obj\Debug\App.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\obj\Debug\SampleData\SampleDataSource\SampleDataSource.baml
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\Exchanger.exe
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\Exchanger.pdb
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\System.Windows.Interactivity.dll
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\WPFToolkit.dll
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\System.Windows.Interactivity.xml
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\WPFToolkit.pdb
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\obj\Debug\ResolveAssemblyReference.cache
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\obj\Debug\Valve.baml
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\obj\Debug\WaterKorner.baml
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\obj\Debug\WaterWave.baml
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\obj\Debug\Corner.g.cs
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\obj\Debug\HotExchanger.g.cs
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\obj\Debug\HotExchengerControl.g.cs
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\obj\Debug\MainWindow.g.cs
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\obj\Debug\Valve.g.cs
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\obj\Debug\WaterKorner.g.cs
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\obj\Debug\WaterWave.g.cs
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\obj\Debug\App.g.cs
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\obj\Debug\Exchanger_MarkupCompile.cache
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\obj\Debug\Exchanger_MarkupCompile.lref
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\obj\Debug\App.baml
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\obj\Debug\Corner.baml
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\obj\Debug\HotExchanger.baml
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\obj\Debug\HotExchengerControl.baml
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\obj\Debug\MainWindow.baml
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\obj\Debug\SampleData\SampleDataSource\SampleDataSource.baml
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\obj\Debug\Exchanger.g.resources
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\obj\Debug\Exchanger.exe
+E:\install_all\Курси_СВ_Задание1_To_the_NoteBook\Expression\Exchanger\Exchanger\obj\Debug\Exchanger.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\Exchanger.exe
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\Exchanger.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\System.Windows.Interactivity.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\WPFToolkit.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\System.Windows.Interactivity.xml
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\WPFToolkit.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\obj\Debug\Valve.baml
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\obj\Debug\WaterWave.baml
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\obj\Debug\Corner.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\obj\Debug\HotExchanger.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\obj\Debug\HotExchengerControl.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\obj\Debug\MainWindow.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\obj\Debug\Valve.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\obj\Debug\WaterWave.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\obj\Debug\App.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\obj\Debug\Exchanger_MarkupCompile.cache
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\obj\Debug\Exchanger_MarkupCompile.lref
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\obj\Debug\App.baml
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\obj\Debug\Corner.baml
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\obj\Debug\HotExchanger.baml
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\obj\Debug\HotExchengerControl.baml
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\obj\Debug\MainWindow.baml
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\obj\Debug\SampleData\SampleDataSource\SampleDataSource.baml
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\obj\Debug\Exchanger.g.resources
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\obj\Debug\Exchanger.exe
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\obj\Debug\Exchanger.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\obj\Debug\ControlPipe.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\Exchanger\Exchanger\obj\Debug\ControlPipe.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\obj\Debug\ControlPipe.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\Exchanger\Exchanger\obj\Debug\ControlPipe.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\Exchanger.exe
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\Exchanger.pdb
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\System.Windows.Interactivity.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\WPFToolkit.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\System.Windows.Interactivity.xml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\WPFToolkit.pdb
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\obj\Debug\Valve.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\obj\Debug\WaterWave.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\obj\Debug\ControlPipe.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\obj\Debug\Corner.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\obj\Debug\HotExchanger.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\obj\Debug\HotExchengerControl.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\obj\Debug\MainWindow.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\obj\Debug\Valve.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\obj\Debug\WaterWave.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\obj\Debug\App.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\obj\Debug\Exchanger_MarkupCompile.cache
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\obj\Debug\Exchanger_MarkupCompile.lref
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\obj\Debug\App.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\obj\Debug\ControlPipe.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\obj\Debug\Corner.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\obj\Debug\HotExchanger.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\obj\Debug\HotExchengerControl.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\obj\Debug\MainWindow.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\obj\Debug\SampleData\SampleDataSource\SampleDataSource.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\obj\Debug\Exchanger.g.resources
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\obj\Debug\Exchanger.exe
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger\Exchanger\obj\Debug\Exchanger.pdb
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\Exchanger.exe
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\Exchanger.pdb
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\System.Windows.Interactivity.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\WPFToolkit.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\System.Windows.Interactivity.xml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\WPFToolkit.pdb
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Valve.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\WaterWave.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\ControlPipe.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Corner.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\HotExchanger.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\HotExchengerControl.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\MainWindow.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Valve.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\WaterWave.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\App.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Exchanger_MarkupCompile.cache
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Exchanger_MarkupCompile.lref
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\App.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\ControlPipe.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Corner.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\HotExchanger.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\HotExchengerControl.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\MainWindow.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\SampleData\SampleDataSource\SampleDataSource.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Exchanger.g.resources
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Exchanger.exe
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Exchanger.pdb
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\PumpButtomPart.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\PumpTopPart.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\PumpButtomPart.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\PumpTopPart.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Pump.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Pump.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\TBranch.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\TBranch.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\BackgroundOfWave.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\BackgroundOfWave.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\GasArea.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\GasArea.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\WaterWaveAsWaterControl.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\WaterWaveAsWaterControl.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\AutomaticControlPoint_SmokeGases.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\AutomaticControlPoint_SmokeGases.baml
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\Exchanger.exe
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\Exchanger.pdb
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\WPFToolkit.dll
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\WPFToolkit.pdb
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\BackgroundOfWave.baml
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\GasArea.baml
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\PumpButtomPart.baml
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\PumpTopPart.baml
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\TBranch.baml
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Valve.baml
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\AutomaticControlPoint_SmokeGases.g.cs
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\BackgroundOfWave.g.cs
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\ControlPipe.g.cs
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Corner.g.cs
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\GasArea.g.cs
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\HotExchanger.g.cs
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\HotExchengerControl.g.cs
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Pump.g.cs
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\PumpButtomPart.g.cs
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\PumpTopPart.g.cs
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\TBranch.g.cs
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Valve.g.cs
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\WaterWave.g.cs
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\WaterWaveAsWaterControl.g.cs
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\App.g.cs
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Exchanger_MarkupCompile.cache
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Exchanger_MarkupCompile.lref
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\App.baml
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\AutomaticControlPoint_SmokeGases.baml
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\ControlPipe.baml
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Corner.baml
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\HotExchanger.baml
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\HotExchengerControl.baml
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Pump.baml
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\SampleData\SampleDataSource\SampleDataSource.baml
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\WaterWave.baml
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\WaterWaveAsWaterControl.baml
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Exchanger.g.resources
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Exchanger.exe
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Exchanger.pdb
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\PumpWorkBody3D.baml
+C:\Users\Администратор\Documents\Expression\Blend 3\Projects\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\PumpWorkBody3D.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\Exchanger.exe
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\Exchanger.pdb
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\System.Windows.Interactivity.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\WPFToolkit.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\System.Windows.Interactivity.xml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\WPFToolkit.pdb
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\BackgroundOfWave.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\GasArea.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\PumpWorkBody3D.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\PumpTopPart.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\TBranch.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Valve.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\AutomaticControlPoint_SmokeGases.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\BackgroundOfWave.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\ControlPipe.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Corner.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\GasArea.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\HotExchanger.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\HotExchengerControl.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\PumpWorkBody3D.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\MainWindow.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Pump.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\PumpButtomPart.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\PumpTopPart.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\TBranch.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Valve.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\WaterWave.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\WaterWaveAsWaterControl.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\App.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Exchanger_MarkupCompile.cache
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Exchanger_MarkupCompile.lref
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\App.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\AutomaticControlPoint_SmokeGases.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\ControlPipe.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Corner.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\HotExchanger.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\HotExchengerControl.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\MainWindow.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Pump.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\PumpButtomPart.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\SampleData\SampleDataSource\SampleDataSource.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\WaterWave.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\WaterWaveAsWaterControl.baml
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Exchanger.g.resources
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Exchanger.exe
+C:\Documents and Settings\Администратор\Мои документы\Expression\Blend 3\Projects\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Exchanger.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\Exchanger.exe
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\Exchanger.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\System.Windows.Interactivity.dll
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\WPFToolkit.dll
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\System.Windows.Interactivity.xml
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\WPFToolkit.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\BackgroundOfWave.baml
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\GasArea.baml
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\PumpWorkBody3D.baml
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\PumpTopPart.baml
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\TBranch.baml
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Valve.baml
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\AutomaticControlPoint_SmokeGases.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\BackgroundOfWave.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\ControlPipe.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Corner.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\GasArea.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\HotExchanger.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\HotExchengerControl.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\PumpWorkBody3D.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\MainWindow.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Pump.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\PumpButtomPart.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\PumpTopPart.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\TBranch.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Valve.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\WaterWave.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\WaterWaveAsWaterControl.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\App.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Exchanger_MarkupCompile.cache
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Exchanger_MarkupCompile.lref
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\App.baml
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\AutomaticControlPoint_SmokeGases.baml
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\ControlPipe.baml
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Corner.baml
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\HotExchanger.baml
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\HotExchengerControl.baml
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\MainWindow.baml
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Pump.baml
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\PumpButtomPart.baml
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\SampleData\SampleDataSource\SampleDataSource.baml
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\WaterWave.baml
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\WaterWaveAsWaterControl.baml
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Exchanger.g.resources
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Exchanger.exe
+C:\Documents and Settings\Администратор\Рабочий стол\ИгорьАкимов_ТепловаяСхема\ИгорьАкимов_ТепловаяСхема\AkimovIgorExchanger_PlusPump\Exchanger\obj\Debug\Exchanger.pdb

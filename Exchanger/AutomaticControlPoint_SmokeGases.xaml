@@ -1,0 +1,433 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	xmlns:local="clr-namespace:Exchanger"
+	x:Class="Exchanger.AutomaticControlPoint_SmokeGases"
+	x:Name="UserControl"
+	d:DesignWidth="1185.627" d:DesignHeight="966.703">
+
+	<Grid x:Name="LayoutRoot">
+		<Grid.Effect>
+			<DropShadowEffect Opacity="0.895"/>
+		</Grid.Effect>
+		<Viewbox>
+			<Canvas Width="1185.627" Height="966.703">
+				<Path Fill="#FFBBD3E2" Stretch="Fill" Stroke="Black" Width="25.75" Height="25.833" Data="M80.75,567.16667 L56,592" Canvas.Left="43.651" Canvas.Top="898.776"/>
+				<Path Fill="#FFBBD3E2" Stretch="Fill" Stroke="Black" Width="25.75" Height="25.832" Data="M80.75,567.16667 L56,592" RenderTransformOrigin="0.5,0.5" Canvas.Left="42.948" Canvas.Top="331.891">
+					<Path.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform ScaleX="1" ScaleY="-1"/>
+							<SkewTransform AngleX="0" AngleY="0"/>
+							<RotateTransform Angle="0"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</Path.RenderTransform>
+				</Path>
+				<Path Fill="#FFBBD3E2" Stretch="Fill" Stroke="Black" Width="25.75" Height="25.833" Data="M80.75,567.16667 L56,592" RenderTransformOrigin="0.5,0.5" Canvas.Left="43.234" Canvas.Top="732.026">
+					<Path.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform ScaleX="1" ScaleY="-1"/>
+							<SkewTransform AngleX="0" AngleY="0"/>
+							<RotateTransform Angle="0"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</Path.RenderTransform>
+				</Path>
+				<Path Fill="#FFBBD3E2" Stretch="Fill" Stroke="Black" Width="25.75" Height="25.833" Data="M80.75,567.16667 L56,592" Canvas.Left="42.734" Canvas.Top="555.776"/>
+				<local:Valve x:Name="WaterSource1_Valve1" Height="96" HorizontalAlignment="Left" Width="37.125" Canvas.Top="870.265"/>
+				<local:ControlPipe x:Name="WaterSource1_Pipe1" Height="31.641" RenderTransformOrigin="0.5,0.5" Width="176.902" Canvas.Left="36.969" Canvas.Top="935.062"/>
+				<local:Corner x:Name="WaterSource1_Corner1" Width="42.333" Height="43.125" RenderTransformOrigin="0.5,0.5" Canvas.Left="225.213" Canvas.Top="826.046">
+					<local:Corner.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="-90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:Corner.RenderTransform>
+				</local:Corner>
+				<local:Pump x:Name="WaterSource1_Pump1" Height="102.313" Width="60.375" Canvas.Left="304.651" Canvas.Top="756.568"/>
+				<local:TBranch x:Name="WaterSource1_TBranch1" Height="42.251" RenderTransformOrigin="0.5,0.5" Width="53.916" Canvas.Left="213.61" Canvas.Top="923.983"/>
+				<local:ControlPipe x:Name="WaterSource1_Pipe2" Height="31.641" RenderTransformOrigin="0.5,0.5" Width="208.301" Canvas.Left="267.35" Canvas.Top="935.056"/>
+				<local:Valve x:Name="WaterSource1_Valve2" Height="96" Width="37.125" Canvas.Left="475.526" Canvas.Top="870.234"/>
+				<local:ControlPipe x:Name="WaterSource1_Pipe4" Height="31.64"  RenderTransformOrigin="0.5,0.5" Width="55.324" Canvas.Left="212.66" Canvas.Top="880.594">
+					<local:ControlPipe.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="-90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:ControlPipe.RenderTransform>
+				</local:ControlPipe>
+				<local:Valve x:Name="WaterSource1_Valve3" Height="96.001" HorizontalAlignment="Left" Width="37.125" Canvas.Left="267.526" Canvas.Top="761.129"/>
+				<local:ControlPipe x:Name="WaterSource1_Pipe5" Height="31.641"  RenderTransformOrigin="0.5,0.5" Width="110.77" Canvas.Left="364.881" Canvas.Top="825.984"/>
+				<local:Valve x:Name="WaterSource1_Valve4" Height="96" Width="37.125" Canvas.Left="475.526" Canvas.Top="761.234"/>
+				<local:TBranch x:Name="WaterSource1_TBranch2" Height="42.251" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Width="53.916" Canvas.Left="506.735" Canvas.Top="820.816">
+					<local:TBranch.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="-90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:TBranch.RenderTransform>
+				</local:TBranch>
+				<local:Corner x:Name="WaterSource1_Corner2" HorizontalAlignment="Left" Width="42.333" Height="42.291" RenderTransformOrigin="0.5,0.5" Canvas.Left="512.51" Canvas.Top="923.943">
+					<local:Corner.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:Corner.RenderTransform>
+				</local:Corner>
+				<local:ControlPipe x:Name="WaterSource1_Pipe3" Height="31.64"  RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Width="55.324" Canvas.Left="511.776" Canvas.Top="880.469">
+					<local:ControlPipe.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="-90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:ControlPipe.RenderTransform>
+				</local:ControlPipe>
+				<local:HotExchengerControl x:Name="HotExchengerControl2" Width="261" Height="413.062" Canvas.Left="408.897" Canvas.Top="112.033"/>
+				<local:HotExchengerControl x:Name="HotExchengerControl1" Width="261" RenderTransformOrigin="0.5,0.5" Height="413.062" Canvas.Left="806.151" Canvas.Top="111.547">
+					<local:HotExchengerControl.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform ScaleX="-1" ScaleY="1"/>
+							<SkewTransform AngleX="0" AngleY="0"/>
+							<RotateTransform Angle="0"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:HotExchengerControl.RenderTransform>
+				</local:HotExchengerControl>
+				<local:ControlPipe x:Name="HotChanel1_Pipe2" Height="31.641"  RenderTransformOrigin="0.5,0.5" Width="355.854" Canvas.Left="397.88" Canvas.Top="591.823" d:LayoutOverrides="HorizontalAlignment"/>
+				<local:Corner x:Name="HotChanel2_CornerInExchanger1" Width="42.332" Height="43.126" RenderTransformOrigin="0.5,0.5" Canvas.Left="367.585" Canvas.Top="353.157">
+					<local:Corner.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="-90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:Corner.RenderTransform>
+				</local:Corner>
+				<local:Corner x:Name="HotChanel1_CornerInExchanger1" Width="42.332" Height="43.126" RenderTransformOrigin="0.5,0.5" Canvas.Left="1065.901" Canvas.Top="352.525"/>
+				<local:Corner x:Name="OutgoingSource_Corner1" Width="42.332" Height="43.126" RenderTransformOrigin="0.5,0.5" Canvas.Left="920.986" Canvas.Top="69.067">
+					<local:Corner.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="-90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:Corner.RenderTransform>
+				</local:Corner>
+				<local:Corner x:Name="HotChanel1_CornerOutExchanger1" Width="42.332" Height="43.126" RenderTransformOrigin="0.5,0.5" Canvas.Left="765.111" Canvas.Top="256.025">
+					<local:Corner.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="-90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:Corner.RenderTransform>
+				</local:Corner>
+				<local:ControlPipe x:Name="WaterSource2_Pipe11" Height="31.641"  RenderTransformOrigin="0.5,0.5" Width="146.99" Canvas.Left="762.401" Canvas.Top="535.687"/>
+				<local:ControlPipe x:Name="HotChanel1_PipeInExchanger1"  RenderTransformOrigin="0.5,0.5" Width="185.628" Height="31.642" Canvas.Left="999.999" Canvas.Top="472.102">
+					<local:ControlPipe.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="-90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:ControlPipe.RenderTransform>
+				</local:ControlPipe>
+				<local:ControlPipe x:Name="HotChanel1_PipeOutExchanger1"  RenderTransformOrigin="0.5,0.5" Width="282.286" Height="31.641" Canvas.Left="639.221" Canvas.Top="423.988">
+					<local:ControlPipe.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="-90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:ControlPipe.RenderTransform>
+				</local:ControlPipe>
+				<local:Corner x:Name="HotChanel2_CornerOutExchanger1" Width="42.332" Height="43.126" RenderTransformOrigin="0.5,0.5" Canvas.Left="668.397" Canvas.Top="256.281"/>
+				<local:Corner x:Name="WaterSource2_Corner5" Width="42.332" Height="43.126" RenderTransformOrigin="0.5,0.5" Canvas.Left="909.359" Canvas.Top="523.984">
+					<local:Corner.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:Corner.RenderTransform>
+				</local:Corner>
+				<local:TBranch x:Name="HotChanel1_TBranch2" Height="42.251" RenderTransformOrigin="0.5,0.5" Width="53.916" Canvas.Left="753.459" Canvas.Top="580.75"/>
+				<local:TBranch x:Name="HotChanel1_TBranch1" Height="42.251" RenderTransformOrigin="0.5,0.5" Width="53.915" Canvas.Left="1065.776" Canvas.Top="580.609"/>
+				<local:Valve x:Name="HotChanel1_Valve2" Height="96" Width="37.125" Canvas.Left="1028.88" Canvas.Top="526.922"/>
+				<local:ControlPipe x:Name="HotChanel1_Pipe1" Height="31.641"  RenderTransformOrigin="0.5,0.5" Width="221.895" Canvas.Left="807.115" Canvas.Top="591.796"/>
+				<local:Valve x:Name="HotChanel1_Valve1" Height="96" Width="37.125" Canvas.Left="1119.432" Canvas.Top="526.838"/>
+				<local:Valve x:Name="HotChanel1_Valve3" Height="96" HorizontalAlignment="Left" Width="37.125" Canvas.Top="527.109"/>
+				<local:ControlPipe x:Name="HotChanel1_Pipe3" Height="31.641"  RenderTransformOrigin="0.5,0.5" Width="361.188" Canvas.Left="36.917" Canvas.Top="591.843" d:LayoutOverrides="HorizontalAlignment"/>
+				<local:Corner x:Name="WaterSource2_Corner4" Width="42.332" Height="43.126" RenderTransformOrigin="0.5,0.5" Canvas.Left="720.194" Canvas.Top="524.151">
+					<local:Corner.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="180"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:Corner.RenderTransform>
+				</local:Corner>
+				<local:ControlPipe x:Name="WaterSource2_Pipe10"  RenderTransformOrigin="0.5,0.5" Height="31.641" Width="412.918" Canvas.Left="529.084" Canvas.Top="302.406">
+					<local:ControlPipe.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="-90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:ControlPipe.RenderTransform>
+				</local:ControlPipe>
+				<local:Corner x:Name="WaterSource2_Corner3" Width="42.332" Height="44.501" RenderTransformOrigin="0.5,0.5" Canvas.Left="708.588" Canvas.Top="68.609"/>
+				<local:ControlPipe x:Name="WaterSource2_Pipe9" Height="31.64"  RenderTransformOrigin="0.5,0.5" Width="142.437" Canvas.Left="566.292" Canvas.Top="68.969" d:LayoutOverrides="HorizontalAlignment"/>
+				<local:TBranch x:Name="WaterSource2_TBranch5" Height="42.251" RenderTransformOrigin="0.5,0.5" Width="53.916" Canvas.Left="512.588" Canvas.Top="70.015">
+					<local:TBranch.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="180"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:TBranch.RenderTransform>
+				</local:TBranch>
+				<local:Pump x:Name="WaterSource2_Pump2" Height="102.313" Width="60.375" Canvas.Left="127.901" Canvas.Top="108.625"/>
+				<local:TBranch x:Name="WaterSource2_TBranch1" Height="42.251" RenderTransformOrigin="0.5,0.5" Width="53.916" Canvas.Left="36.86" Canvas.Top="276.04"/>
+				<local:Valve x:Name="WaterSource2_Valve3" Height="96" Width="37.125" Canvas.Left="298.776" Canvas.Top="222.291"/>
+				<local:ControlPipe x:Name="WaterSource2_Pipe3" Height="31.64"  RenderTransformOrigin="0.5,0.5" Width="55.59" Canvas.Left="36.061" Canvas.Top="232.581">
+					<local:ControlPipe.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="-90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:ControlPipe.RenderTransform>
+				</local:ControlPipe>
+				<local:Valve x:Name="WaterSource2_Valve4" Height="96.001" HorizontalAlignment="Left" Width="37.125" Canvas.Left="90.776" Canvas.Top="113.186"/>
+				<local:ControlPipe x:Name="WaterSource2_Pipe4" Height="31.641"  RenderTransformOrigin="0.5,0.5" Width="110.52" Canvas.Left="188.401" Canvas.Top="177.65"/>
+				<local:Valve x:Name="WaterSource2_Valve5" Height="96" Width="37.125" Canvas.Left="298.776" Canvas.Top="113.291"/>
+				<local:TBranch x:Name="WaterSource2_TBranch3" Height="42.251" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Width="53.916" Canvas.Left="329.985" Canvas.Top="172.873">
+					<local:TBranch.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="-90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:TBranch.RenderTransform>
+				</local:TBranch>
+				<local:Corner x:Name="WaterSource2_Corner1" HorizontalAlignment="Left" Width="42.333" Height="42.291" RenderTransformOrigin="0.5,0.5" Canvas.Left="335.76" Canvas.Top="276">
+					<local:Corner.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:Corner.RenderTransform>
+				</local:Corner>
+				<local:ControlPipe x:Name="WaterSource2_Pipe2" Height="31.64"  RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Width="55.324" Canvas.Left="335.01" Canvas.Top="232.542">
+					<local:ControlPipe.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="-90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:ControlPipe.RenderTransform>
+				</local:ControlPipe>
+				<local:Pump x:Name="WaterSource2_Pump1" Width="60.375" Height="102.313" Canvas.Left="127.776" Canvas.Top="217.735"/>
+				<local:Valve x:Name="WaterSource2_Valve2" HorizontalAlignment="Left" Width="37.125" Height="96.001" Canvas.Left="90.651" Canvas.Top="222.296"/>
+				<local:ControlPipe x:Name="WaterSource2_Pipe1"  RenderTransformOrigin="0.5,0.5" Width="110.848" Height="31.641" Canvas.Left="188.042" Canvas.Top="287.291"/>
+				<local:Pump x:Name="WaterSource2_Pump3" Height="102.313" Width="60.375" Canvas.Left="127.901"/>
+				<local:Valve x:Name="WaterSource2_Valve6" Height="96.001" HorizontalAlignment="Left" Width="37.125" Canvas.Left="90.776" Canvas.Top="4.561"/>
+				<local:ControlPipe x:Name="WaterSource2_Pipe7" Height="31.641"  RenderTransformOrigin="0.5,0.5" Width="110.754" Canvas.Left="188.121" Canvas.Top="69.509"/>
+				<local:Valve x:Name="WaterSource2_Valve7" Height="96" Width="37.125" Canvas.Left="298.776" Canvas.Top="4.666"/>
+				<local:TBranch x:Name="WaterSource2_TBranch4" Height="42.251" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Width="53.916" Canvas.Left="335.667" Canvas.Top="69.962">
+					<local:TBranch.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="180"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:TBranch.RenderTransform>
+				</local:TBranch>
+				<local:ControlPipe x:Name="WaterSource2_Pipe5" Height="31.64"  RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Width="55.324" Canvas.Left="334.651" Canvas.Top="123.901">
+					<local:ControlPipe.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="-90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:ControlPipe.RenderTransform>
+				</local:ControlPipe>
+				<local:TBranch x:Name="WaterSource2_TBranch2" Height="42.251" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Width="53.916" Canvas.Left="42.808" Canvas.Top="172.67">
+					<local:TBranch.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:TBranch.RenderTransform>
+				</local:TBranch>
+				<local:ControlPipe x:Name="WaterSource2_Pipe6" Height="31.64"  RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Width="54.98" Canvas.Left="36.499" Canvas.Top="123.683">
+					<local:ControlPipe.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="-90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:ControlPipe.RenderTransform>
+				</local:ControlPipe>
+				<local:Corner x:Name="WaterSource2_Corner2" Width="42.333" Height="43.125" RenderTransformOrigin="0.5,0.5" Canvas.Left="48.599" Canvas.Top="69.401">
+					<local:Corner.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="-90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:Corner.RenderTransform>
+				</local:Corner>
+				<local:Valve x:Name="WaterSource2_Valve1" HorizontalAlignment="Left" Width="37.125" VerticalAlignment="Bottom" Height="96.001" Canvas.Top="222.401"/>
+				<local:Valve x:Name="WaterSource2_Valve8" Height="96" Width="37.125" Canvas.Left="389.401" Canvas.Top="4.609"/>
+				<local:ControlPipe x:Name="WaterSource2_Pipe8" Height="31.641"  RenderTransformOrigin="0.5,0.5" Width="86.343" Canvas.Left="426.448" Canvas.Top="69.577"/>
+				<local:ControlPipe x:Name="OutgoingSource_Pipe1" Height="31.64"  RenderTransformOrigin="0.5,0.5" Width="156.395" Canvas.Left="963.193" Canvas.Top="68.969" d:LayoutOverrides="HorizontalAlignment"/>
+				<local:Valve x:Name="OutgoingSource_Valve1" Height="96" Width="37.125" Canvas.Left="1119.432" Canvas.Top="4.145"/>
+				<local:ControlPipe x:Name="HotChanel2_Pipe3" Height="31.641"  RenderTransformOrigin="0.5,0.5" Width="397.871" Canvas.Left="721.87" Canvas.Top="693.171" d:LayoutOverrides="HorizontalAlignment"/>
+				<local:TBranch x:Name="HotChanel2_TBranch1" Height="42.251" RenderTransformOrigin="0.5,0.5" Width="53.916" Canvas.Left="355.945" Canvas.Top="682.109"/>
+				<local:TBranch x:Name="HotChanel2_TBranch2" Height="42.251" RenderTransformOrigin="0.5,0.5" Width="53.915" Canvas.Left="668.215" Canvas.Top="682.109"/>
+				<local:Valve x:Name="HotChanel2_Valve2" Height="96" Width="37.124" Canvas.Left="409.589" Canvas.Top="628.405"/>
+				<local:ControlPipe x:Name="HotChanel2_Pipe2" Height="31.641"  RenderTransformOrigin="0.5,0.5" Width="221.911" Canvas.Left="446.568" Canvas.Top="693.249"/>
+				<local:Valve x:Name="HotChanel2_Valve3" Height="96" Width="37.125" Canvas.Left="1119.432" Canvas.Top="628.401"/>
+				<local:Valve x:Name="HotChanel2_Valve1" Height="96" HorizontalAlignment="Left" Width="37.125" Canvas.Top="628.609"/>
+				<local:ControlPipe x:Name="HotChanel2_Pipe1" Height="31.642"  RenderTransformOrigin="0.5,0.5" Width="319.406" Canvas.Left="36.912" Canvas.Top="693.171" d:LayoutOverrides="HorizontalAlignment"/>
+				<local:ControlPipe x:Name="HotChanel2_PipeOutExchanger1"  RenderTransformOrigin="0.5,0.5" Width="383.042" Height="31.641" Canvas.Left="503.639" Canvas.Top="474.851">
+					<local:ControlPipe.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="-90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:ControlPipe.RenderTransform>
+				</local:ControlPipe>
+				<local:ControlPipe x:Name="HotChanel2_PipeInExchanger1"  RenderTransformOrigin="0.5,0.5" Width="286.532" Height="31.642" Canvas.Left="239.66" Canvas.Top="523.169">
+					<local:ControlPipe.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="-90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:ControlPipe.RenderTransform>
+				</local:ControlPipe>
+				<local:ControlPipe x:Name="WaterSource1_Pipe6"  RenderTransformOrigin="0.5,0.5" Height="31.643" Width="290.466" Canvas.Left="394.152" Canvas.Top="654.31">
+					<local:ControlPipe.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform Angle="-90"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</local:ControlPipe.RenderTransform>
+				</local:ControlPipe>
+				<Rectangle Fill="#FFDAACAC" Stroke="Black" Width="480" Height="32" OpacityMask="Black" Canvas.Left="627.651" Canvas.Top="748.609"/>
+				<Rectangle Fill="#FFBBD3E2" Stroke="Black" Width="240" Height="168" OpacityMask="Black" Canvas.Left="627.651" Canvas.Top="780.609"/>
+				<TextBlock x:Name="textBlock" Width="408" Height="16" TextWrapping="Wrap" Canvas.Left="643.651" Canvas.Top="756.609"><Span FontWeight="Bold"><Run Text="АВТОМАТИЗИРОВАННОЕ РАБОЧЕЕ МЕСТО ДИСПЕТЧЕРА"/></Span><Span><Run Text=" "/></Span><Run Text=" "/><Run FontWeight="Bold" Text="№1"/><LineBreak/><Run Text=""/></TextBlock>
+				<TextBlock x:Name="textBlock1" Width="232" Height="16" TextWrapping="Wrap" Canvas.Left="643.651" Canvas.Top="804.609"><Run Text="Тепловая мощьность = 11935,00 "/><Run Text=" "/><Run Text="Гкал/"/><Run Text="час"/></TextBlock>
+				<TextBlock x:Name="textBlock1_Copy1" Width="232" Height="16" TextWrapping="Wrap" Canvas.Left="643.651" Canvas.Top="868.609"><Run Text="Массовый расход      =101,52 т"/><Run Text="/"/><Run Text="ч"/></TextBlock>
+				<TextBlock x:Name="textBlock1_Copy2" Width="232" Height="16" TextWrapping="Wrap" Text="Сумарный обьем       =2242111,00 м3" Canvas.Left="643.651" Canvas.Top="852.609"/>
+				<TextBlock x:Name="textBlock1_Copy3" Width="232" Height="16" TextWrapping="Wrap" Canvas.Left="643.651" Canvas.Top="836.609"><Run Text="Обьемный расход     = 11,52 м3"/><Run Text="/"/><Run Text="ч"/></TextBlock>
+				<TextBlock x:Name="textBlock1_Copy4" Width="232" Height="16" TextWrapping="Wrap" Canvas.Left="643.651" Canvas.Top="820.609"><Run Text="Тепловая "/><Run Text="энергия     = 191186,61"/><Run Text=" Гкал"/></TextBlock>
+				<TextBlock x:Name="textBlock1_Copy" Width="232" Height="16" TextWrapping="Wrap" Canvas.Left="643.651" Canvas.Top="884.609"><Run Text="Суммарная масса      "/><Run Text="="/><Run Text="2170415,00 "/><Run Text="т"/></TextBlock>
+				<Rectangle Fill="#FFBBD3E2" Stroke="Black" Width="240" Height="168" OpacityMask="Black" Canvas.Left="867.651" Canvas.Top="780.609"/>
+				<TextBlock x:Name="textBlock1_Copy5" Width="232" Height="16" TextWrapping="Wrap" Canvas.Left="883.651" Canvas.Top="804.609"><Run Text="Тепловая мощьность = "/><Run Text="3917"/><Run Text=",00 "/><Run Text=" "/><Run Text="Гкал/"/><Run Text="час"/></TextBlock>
+				<TextBlock x:Name="textBlock1_Copy6" Width="232" Height="16" TextWrapping="Wrap" Canvas.Left="883.651" Canvas.Top="868.609"><Run Text="Массовый расход      ="/><Run Text="92"/><Run Text=",52 т"/><Run Text="/"/><Run Text="ч"/></TextBlock>
+				<TextBlock x:Name="textBlock1_Copy7" Width="232" Height="16" TextWrapping="Wrap" Canvas.Left="883.651" Canvas.Top="852.609"><Run Text="Сумарный обьем       ="/><Run Text="2153754"/><Run Text=",00 м3"/></TextBlock>
+				<TextBlock x:Name="textBlock1_Copy8" Width="232" Height="16" TextWrapping="Wrap" Canvas.Left="883.651" Canvas.Top="836.609"><Run Text="Обьемный расход     = "/><Run Text="92"/><Run Text=",52 м3"/><Run Text="/"/><Run Text="ч"/></TextBlock>
+				<TextBlock x:Name="textBlock1_Copy9" Width="232" Height="16" TextWrapping="Wrap" Canvas.Left="883.651" Canvas.Top="820.609"><Run Text="Тепловая "/><Run Text="энергия     = "/><Run Text="65428"/><Run Text=","/><Run Text="40"/><Run Text=" Гкал"/></TextBlock>
+				<TextBlock x:Name="textBlock1_Copy10" Width="232" Height="16" TextWrapping="Wrap" Canvas.Left="883.651" Canvas.Top="884.609"><Run Text="Суммарная масса      "/><Run Text="="/><Run Text="2145962"/><Run Text=",00 "/><Run Text="т"/></TextBlock>
+				<TextBlock x:Name="textBlock1_Copy11" Width="232" Height="16" TextWrapping="Wrap" FontSize="10.667" FontWeight="Bold" Foreground="#FF095390" Canvas.Left="643.651" Canvas.Top="788.609"><Run Text="Показания канала дымовых "/><Run Text="газов "/><Run Text="2"/><LineBreak/><Run Text=""/></TextBlock>
+				<TextBlock x:Name="textBlock1_Copy12" Width="232" Height="16" TextWrapping="Wrap" FontSize="10.667" FontWeight="Bold" Foreground="#FF095390" Canvas.Left="883.651" Canvas.Top="788.609"><Run Text="Показания канала дымовых "/><Run Text="газов "/><Run Text="1"/><LineBreak/><Run Text=""/></TextBlock>
+				<Rectangle Fill="#FFBBD3E2" Stroke="Black" Height="32" OpacityMask="Black" Width="96" Canvas.Left="59.651" Canvas.Top="876.609"/>
+				<TextBlock x:Name="textBlock2" Width="104" Height="16" FontWeight="Bold" TextWrapping="Wrap" Canvas.Left="59.651" Canvas.Top="884.609"><Run Text="    "/><Run Text="3,4 Атм  0"/><Run Text=","/><Run Text="С     "/></TextBlock>
+				<Rectangle Fill="#FFBBD3E2" Stroke="Black" Height="32" OpacityMask="Black" Width="96" Canvas.Left="59.651" Canvas.Top="748.609"/>
+				<TextBlock x:Name="textBlock2_Copy" Width="104" Height="16" FontWeight="Bold" TextWrapping="Wrap" Canvas.Left="59.651" Canvas.Top="756.609"><Run Text="   "/><Run Text="4"/><Run Text=","/><Run Text="1"/><Run Text=" Атм "/><Run Text=" "/><Run Text="61"/><Run Text=","/><Run Text="С     "/></TextBlock>
+				<Rectangle Fill="#FFBBD3E2" Stroke="Black" Height="32" OpacityMask="Black" Width="96" Canvas.Left="59.651" Canvas.Top="532.609"/>
+				<TextBlock x:Name="textBlock2_Copy1" Width="104" Height="16" FontWeight="Bold" TextWrapping="Wrap" Canvas.Left="59.651" Canvas.Top="540.609"><Run Text="   "/><Run Text="5"/><Run Text=","/><Run Text="5"/><Run Text=" Атм  "/><Run Text="12"/><Run Text="0"/><Run Text=","/><Run Text="С     "/></TextBlock>
+				<Rectangle Fill="#FFBBD3E2" Stroke="Black" Height="32" OpacityMask="Black" Width="96" Canvas.Left="59.651" Canvas.Top="348.609"/>
+				<TextBlock x:Name="textBlock2_Copy2" Width="104" Height="16" FontWeight="Bold" TextWrapping="Wrap" Canvas.Left="59.651" Canvas.Top="356.609"><Run Text="   "/><Run Text="4"/><Run Text=","/><Run Text="2"/><Run Text=" Атм  "/><Run Text="52"/><Run Text=","/><Run Text="С     "/></TextBlock>
+				<Rectangle Fill="#FFBBD3E2" Stroke="Black" OpacityMask="Black" Width="96" Height="32" Canvas.Left="1011.651" Canvas.Top="663.547"/>
+				<TextBlock x:Name="textBlock2_Copy3" Width="104" Height="16" FontWeight="Bold" TextWrapping="Wrap" Canvas.Left="1011.651" Canvas.Top="671.547"><Run Text="   "/><Run Text="3,"/><Run Text="8"/><Run Text=" Атм  "/><Run Text="48"/><Run Text=","/><Run Text="С     "/></TextBlock>
+				<Rectangle Fill="#FFBBD3E2" Stroke="Black" OpacityMask="Black" Width="96" Height="32" Canvas.Left="1011.651" Canvas.Top="625.421"/>
+				<TextBlock x:Name="textBlock2_Copy4" Width="104" Height="16" FontWeight="Bold" TextWrapping="Wrap" Canvas.Left="1011.651" Canvas.Top="633.421"><Run Text="   "/><Run Text="5"/><Run Text=","/><Run Text="5"/><Run Text=" Атм  "/><Run Text="122"/><Run Text=","/><Run Text="С     "/></TextBlock>
+				<Path Fill="#FFBBD3E2" Stretch="Fill" Stroke="Black" Width="12.75" Height="10.999" Data="M80.75,567.16667 L56,592" RenderTransformOrigin="0.5,0.5" Canvas.Left="1106.526" Canvas.Top="677.375">
+					<Path.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform ScaleX="1" ScaleY="-1"/>
+							<SkewTransform AngleX="0" AngleY="0"/>
+							<RotateTransform Angle="0"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</Path.RenderTransform>
+				</Path>
+				<Path Fill="#FFBBD3E2" Stretch="Fill" Stroke="Black" Width="12.75" Height="10.998" Data="M80.75,567.16667 L56,592" RenderTransformOrigin="0.5,0.5" Canvas.Left="1106.756" Canvas.Top="631.787">
+					<Path.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform ScaleX="1" ScaleY="1"/>
+							<SkewTransform AngleX="0" AngleY="0"/>
+							<RotateTransform Angle="0"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</Path.RenderTransform>
+				</Path>
+				<Path Fill="#FFBBD3E2" Stretch="Fill" Stroke="Black" Width="25.75" Height="25.832" Data="M80.75,567.16667 L56,592" RenderTransformOrigin="0.5,0.5" Canvas.Left="1121.901" Canvas.Top="107.891">
+					<Path.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform ScaleX="1" ScaleY="-1"/>
+							<SkewTransform AngleX="0" AngleY="0"/>
+							<RotateTransform Angle="0"/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</Path.RenderTransform>
+				</Path>
+				<Rectangle Fill="#FFBBD3E2" Stroke="Black" Height="64" OpacityMask="Black" Width="96" Canvas.Left="1051.651" Canvas.Top="124.609"/>
+				<TextBlock x:Name="textBlock2_Copy5" Width="104" Height="16" FontWeight="Bold" TextWrapping="Wrap" Canvas.Left="1043.651" Canvas.Top="132.609"><Run Text="   "/><Run Text="  6"/><Run Text=","/><Run Text="1"/><Run Text=" Атм  "/><Run Text="5"/><Run Text="9"/><Run Text=","/><Run Text="С     "/></TextBlock>
+				<TextBlock x:Name="textBlock2_Copy6" Width="104" Height="16" FontWeight="Bold" TextWrapping="Wrap" Canvas.Left="1043.651" Canvas.Top="148.609"><Run Text="   "/><Run Text="  "/><Run Text="2"/><Run Text=","/><Run Text="8 м3"/><Run Text="/"/><Run Text="ч"/><Run Text="    "/></TextBlock>
+				<TextBlock x:Name="textBlock2_Copy7" Width="104" Height="16" FontWeight="Bold" TextWrapping="Wrap" Canvas.Left="1043.651" Canvas.Top="164.609"><Run Text="   "/><Run Text="  "/><Run Text="61887,9 "/><Run Text="м3   "/></TextBlock>
+				<Rectangle Fill="#FFA9B863" Stroke="Black" Width="168" Height="32" OpacityMask="Black" Canvas.Left="179.651" Canvas.Top="388.609"/>
+				<Rectangle Fill="#FFBBD3E2" Stroke="Black" Width="168" OpacityMask="Black" Height="104" Canvas.Left="179.651" Canvas.Top="420.609"/>
+				<TextBlock x:Name="textBlock2_Copy8" Width="160" Height="16" FontWeight="Bold" TextWrapping="Wrap" Canvas.Left="179.651" Canvas.Top="392"><Run Text="   "/><Run FontSize="14.667" Text="Электросчетчики"/></TextBlock>
+				<TextBlock x:Name="textBlock2_Copy9" Width="128" Height="16" FontWeight="Bold" TextWrapping="Wrap" Canvas.Left="179.651" Canvas.Top="500.609"><Run Text="   "/><Run Text="Е"/><Run Text="3"/><Run Text=" = "/><Run Text="6"/><Run Text="89"/><Run Text=","/><Run Text="9"/><Run Text=" кВт*ч"/></TextBlock>
+				<TextBlock x:Name="textBlock2_Copy10" Width="128" FontWeight="Bold" TextWrapping="Wrap" Height="16" Canvas.Left="179.651" Canvas.Top="476.609"><Run Text="   "/><Run Text="Е"/><Run Text="3"/><Run Text=" = "/><Run Text="6"/><Run Text="79"/><Run Text=","/><Run Text="5"/><Run Text=" кВт*ч"/></TextBlock>
+				<TextBlock x:Name="textBlock2_Copy11" Width="128" Height="16" FontWeight="Bold" TextWrapping="Wrap" Canvas.Left="179.651" Canvas.Top="452.609"><Run Text="   "/><Run Text="Е"/><Run Text="2"/><Run Text=" = "/><Run Text="642"/><Run Text=","/><Run Text="0"/><Run Text=" кВт*ч"/><LineBreak/><Run Text=""/></TextBlock>
+				<TextBlock x:Name="textBlock2_Copy12" Width="128" Height="16" FontWeight="Bold" TextWrapping="Wrap" Canvas.Left="179.651" Canvas.Top="428.609"><Run Text="   "/><Run Text="Е1 = 1802,9 кВт*ч"/></TextBlock>
+			</Canvas>
+		</Viewbox>
+	</Grid>
+</UserControl>

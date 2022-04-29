@@ -1,0 +1,118 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	xmlns:Exchanger="clr-namespace:Exchanger"
+	x:Class="Pipe.WaterWave"
+	x:Name="UserControl"
+	d:DesignWidth="40" d:DesignHeight="8">
+	<UserControl.Resources>
+		<Storyboard x:Key="WaterWaveAnimation" RepeatBehavior="Forever" AutoReverse="False">
+			<DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="EllipseWhiteWave" Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)">
+				<SplineDoubleKeyFrame KeyTime="00:00:00" Value="-1.89"/>
+				<SplineDoubleKeyFrame KeyTime="00:00:01" Value="-9.625"/>
+				<SplineDoubleKeyFrame KeyTime="00:00:02" Value="-17.688"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="EllipseWhiteWave" Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)">
+				<SplineDoubleKeyFrame KeyTime="00:00:00" Value="-0.06"/>
+				<SplineDoubleKeyFrame KeyTime="00:00:01" Value="0.085"/>
+				<SplineDoubleKeyFrame KeyTime="00:00:02" Value="-0.022"/>
+				<SplineDoubleKeyFrame KeyTime="00:00:02.5000000" Value="-0.007"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="EllipseWhiteWave" Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)">
+				<SplineDoubleKeyFrame KeyTime="00:00:00" Value="0.037"/>
+				<SplineDoubleKeyFrame KeyTime="00:00:01" Value="7.964"/>
+				<SplineDoubleKeyFrame KeyTime="00:00:02" Value="0.052"/>
+				<SplineDoubleKeyFrame KeyTime="00:00:02.5000000" Value="0.021"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="EllipseWhiteWave" Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)">
+				<SplineDoubleKeyFrame KeyTime="00:00:00" Value="1.187"/>
+				<SplineDoubleKeyFrame KeyTime="00:00:01" Value="1.198"/>
+			</DoubleAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Key="ReverseWaterWaveAnimation" RepeatBehavior="Forever">
+			<DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="EllipseWhiteWave">
+				<SplineDoubleKeyFrame KeyTime="00:00:00" Value="-19.781"/>
+				<SplineDoubleKeyFrame KeyTime="00:00:01" Value="-9.625"/>
+				<SplineDoubleKeyFrame KeyTime="00:00:02" Value="-1.969"/>
+				<SplineDoubleKeyFrame KeyTime="00:00:02.5000000" Value="-1.89"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="EllipseWhiteWave">
+				<SplineDoubleKeyFrame KeyTime="00:00:00" Value="-0.007"/>
+				<SplineDoubleKeyFrame KeyTime="00:00:01" Value="0.085"/>
+				<SplineDoubleKeyFrame KeyTime="00:00:02" Value="-0.007"/>
+				<SplineDoubleKeyFrame KeyTime="00:00:02.5000000" Value="-0.007"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="EllipseWhiteWave">
+				<SplineDoubleKeyFrame KeyTime="00:00:00" Value="0.021"/>
+				<SplineDoubleKeyFrame KeyTime="00:00:01" Value="7.964"/>
+				<SplineDoubleKeyFrame KeyTime="00:00:02" Value="0.052"/>
+				<SplineDoubleKeyFrame KeyTime="00:00:02.5000000" Value="0.037"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="EllipseWhiteWave">
+				<SplineDoubleKeyFrame KeyTime="00:00:01" Value="1.198"/>
+				<SplineDoubleKeyFrame KeyTime="00:00:02.5000000" Value="1.187"/>
+			</DoubleAnimationUsingKeyFrames>
+		</Storyboard>
+	</UserControl.Resources>
+	<UserControl.Triggers>
+		<EventTrigger RoutedEvent="FrameworkElement.Loaded">
+			<BeginStoryboard Storyboard="{StaticResource WaterWaveAnimation}"/>
+			<BeginStoryboard x:Name="ReverseWaterWaveAnimation_BeginStoryboard" Storyboard="{StaticResource ReverseWaterWaveAnimation}"/>
+		</EventTrigger>
+	</UserControl.Triggers>
+
+	<Grid x:Name="LayoutRoot">
+		<VisualStateManager.VisualStateGroups>
+			<VisualStateGroup x:Name="VisualStateGroup">
+				<VisualState x:Name="VisualStateTurnOff">
+					<Storyboard>
+						<DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="LayoutRoot" Storyboard.TargetProperty="(UIElement.Opacity)">
+							<SplineDoubleKeyFrame KeyTime="00:00:00" Value="1"/>
+							<SplineDoubleKeyFrame KeyTime="00:00:03" Value="0"/>
+						</DoubleAnimationUsingKeyFrames>
+					</Storyboard>
+				</VisualState>
+				<VisualState x:Name="VisualStateTurnOn">
+					<Storyboard>
+						<DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="LayoutRoot" Storyboard.TargetProperty="(UIElement.Opacity)">
+							<SplineDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+							<SplineDoubleKeyFrame KeyTime="00:00:03" Value="1"/>
+						</DoubleAnimationUsingKeyFrames>
+					</Storyboard>
+				</VisualState>
+			</VisualStateGroup>
+		</VisualStateManager.VisualStateGroups>
+		<Viewbox x:Name="viewbox" Stretch="Fill">
+			<Canvas Width="40" Height="8">
+				<Exchanger:BackgroundOfWave x:Name="BackgroundRect" Width="40" Height="8"/>
+				<Ellipse x:Name="EllipseWhiteWave" Stroke="{x:Null}" RenderTransformOrigin="0.5,0.5" Width="20.219" Height="1" Canvas.Left="19.781" Canvas.Top="3.396" d:LayoutOverrides="HorizontalAlignment">
+					<Ellipse.OpacityMask>
+						<RadialGradientBrush>
+							<GradientStop Color="#FF24557A" Offset="0"/>
+							<GradientStop Color="#FF326588" Offset="1"/>
+						</RadialGradientBrush>
+					</Ellipse.OpacityMask>
+					<Ellipse.Fill>
+						<RadialGradientBrush>
+							<GradientStop Color="#61EEEEEE" Offset="0"/>
+							<GradientStop Color="#00257EB9" Offset="1"/>
+							<GradientStop Color="#A9AED0E8" Offset="0.372"/>
+							<GradientStop Color="#4A6190AD" Offset="0.684"/>
+						</RadialGradientBrush>
+					</Ellipse.Fill>
+					<Ellipse.RenderTransform>
+						<TransformGroup>
+							<ScaleTransform/>
+							<SkewTransform/>
+							<RotateTransform/>
+							<TranslateTransform/>
+						</TransformGroup>
+					</Ellipse.RenderTransform>
+				</Ellipse>
+			</Canvas>
+		</Viewbox>
+	</Grid>
+</UserControl>
